@@ -1,0 +1,7 @@
+title: Zachariah Jia
+
+remote_theme: sighingnow/jekyll-gitbook
+
+toc:
+  enabled: true
+  enabled_index: true
